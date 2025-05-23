@@ -1,0 +1,22 @@
+nav{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    gap: 10px;
+}
+body{
+    background-color: aquamarine;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+ h1{
+    color: blue;
+    text-align: center;
+ }
+ a{
+    text-decoration:none;
+    color: blue;
+ }
